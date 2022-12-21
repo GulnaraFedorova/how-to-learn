@@ -254,7 +254,6 @@
   list-style: none;
   display: flex;
   flex-direction: column;
-  list-style: none;
   align-content: space-between;
   row-gap: 20px;
 }
