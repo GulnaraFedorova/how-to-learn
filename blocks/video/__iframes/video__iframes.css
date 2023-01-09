@@ -5,5 +5,5 @@
     flex-wrap: wrap;
     column-gap: 20px;
     justify-content: center;
-    
+    list-style-type: none;
 }

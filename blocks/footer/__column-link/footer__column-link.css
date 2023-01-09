@@ -1,7 +1,7 @@
 .footer__column-link {
     margin: 0;
     color: #ffffff;
-    transition-property: color;
+    transition: color 0.9s linear;
     text-decoration: none;
     line-height: 30px;
     font-size: 18px;
