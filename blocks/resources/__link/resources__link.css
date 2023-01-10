@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     object-fit:fill;
-    transition: color 0.9s linear;
+    transition: opacity 0.5s linear;
 }
 
 .resources__link:hover {
